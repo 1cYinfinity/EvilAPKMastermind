@@ -37,6 +37,6 @@ Contributions are welcome! Feel free to suggest improvements, report issues, or 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE.md). Use it responsibly and remember, with great power comes great responsibility... or not.
+This repository is licensed under the [MIT License](License.md). Use it responsibly and remember, with great power comes great responsibility... or not.
 
 EvilAPKMastermind - Code in the shadows, unleash the darkness.
