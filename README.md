@@ -24,7 +24,7 @@ Ensure you have the following tools installed on your Linux system:
 1. Clone the repository: `git clone https://github.com/1cYinfinity/EvilAPKMastermind.git`<br>
 2. Navigate to the repository: `cd EvilAPKMastermind`<br>
 3. Run the prerequisites script: `./install_prerequisites.sh`<br>
-4. Execute the main script: `./evil_apk_mastermind.sh`<br>
+4. Execute the main script: `./apkrev.sh`<br>
 5. Follow the prompts to unleash your darkest modifications upon unsuspecting APKs.
 
 ## Disclaimer
